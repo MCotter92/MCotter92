@@ -9,3 +9,6 @@ Possbile future projects include:
 * A study of the [Top Ten Algorithms in Applied Mathematics](https://nhigham.com/2016/03/29/the-top-10-algorithms-in-applied-mathematics/).
 * A program that will draw groups. Possibly using Grant Sanderson's [Manim](https://github.com/3b1b/manim).
 
+
+You can contact me at maccotter11@gmail.com
+
