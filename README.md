@@ -5,7 +5,7 @@ I am currently working my way through Project [Project Euler](https://projecteul
 I am happily married and have a dog name Wrigley. I enjoy reading, gaming, spending time with my family and traveling.
 
 Possbile future projects include: 
-* Program that gives a summary of how a specific baseball team or player did using [pybaseball](https://github.com/jldbc/pybaseball). Possibly a set it and foget it structure where the summary is emailed to you at a cadence of your choosing. 
+* Program that gives a summary of how a specific baseball team or player did over a specified time frame using [pybaseball](https://github.com/jldbc/pybaseball). Possibly a set it and foget it structure where the summary is emailed to you at a cadence of your choosing. 
 * A study of the [Top Ten Algorithms in Applied Mathematics](https://nhigham.com/2016/03/29/the-top-10-algorithms-in-applied-mathematics/).
 * A program that will draw groups. Possibly using Grant Sanderson's [Manim](https://github.com/3b1b/manim).
 
