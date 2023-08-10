@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My repos can be found [here](https://github.com/MCotter92?tab=repositories)
+My repos can be found [here](https://github.com/MCotter92?tab=repositories).
 
 You can contact me at maccotter11@gmail.com.
 
