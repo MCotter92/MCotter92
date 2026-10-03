@@ -10,7 +10,7 @@ My name is Mason Cotter. I am currently a data engineer that writes software (or
 - Next I want to:
   - [ ] write my own `malloc()` and `free()`
   - [ ] read through [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/split/index.html)
-  - [ ] write my own echo server 
+  - [ ] write an echo server 
   - [ ] write a small packet sniffer 
 - Eventually I want to contribute to an open source project in this space like [cURL](https://github.com/curl/curl) or similar. 
 
