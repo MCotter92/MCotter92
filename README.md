@@ -6,7 +6,7 @@ My name is Mason Cotter. I am currently a data engineer that writes software (or
 
 - Currently working on:
   - [ ] Echo server, built while reading [Beej's Guide](https://beej.us/guide/bgnet/html/split/index.html)
-  - [ ] Getting a first PR merged into [cURL](https://github.com/curl/curl)
+  - [ ] Getting a first PR merged into [cURL](https://github.com/curl/curl) (docs fixes, reproducing bug reports, or maybe testing releases)
   - [ ] Working through K&R C (as a reference alongside the projects)
 - Up next:
   - [ ] Small packet sniffer
