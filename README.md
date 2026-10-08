@@ -5,6 +5,7 @@ My name is Mason Cotter. I am currently a data engineer that writes software (or
 ### Personal Projects
 
 - Currently working on:
+  - [ ] Write my own `malloc()` and `free()`
   - [ ] Echo server, built while reading [Beej's Guide](https://beej.us/guide/bgnet/html/split/index.html)
   - [ ] Getting a first PR merged into [cURL](https://github.com/curl/curl) (docs fixes, reproducing bug reports, or maybe testing releases)
   - [ ] Working through K&R C (as a reference alongside the projects)
