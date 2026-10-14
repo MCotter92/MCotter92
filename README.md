@@ -14,4 +14,4 @@ My name is Mason Cotter. I am currently a data engineer that writes software (or
   - [ ] Small packet sniffer
 
 ### Other
-I am currently re-reading Dune Messiah, playing Ghost of Yotei on PlayStation, and tinkering with a home server hosted on a Raspberry Pi 5 that my wife got me as a gift, all as my 1 year old allows. 
+I am currently re-reading Children of Dune, playing Ghost of Yotei on PlayStation, and tinkering with a home server hosted on a Raspberry Pi 5 that my wife got me as a gift, all as my 1 year old allows. 
