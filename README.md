@@ -8,7 +8,7 @@ My name is Mason Cotter. I am currently a data engineer that writes software (or
   - [ ] Writing my own `malloc()` and `free()` using K&R C Book as a guide
   - [ ] Writing an echo server, built while reading [Beej's Guide](https://beej.us/guide/bgnet/html/split/index.html)
   - [ ] Finish [Galaga-like game](https://github.com/MCotter92/galaga_clone) as a way to learning to steer coding agents
-  - [ ] Making a pr review agent that runs on GH actions 
+  - [ ] Making a home lab housekeeping agent that helps me stay on top of maintenance.  
 - Up next:
   - [ ] Getting a first PR merged into [cURL](https://github.com/curl/curl) (docs fixes, reproducing bug reports, or maybe testing releases)
   - [ ] Small packet sniffer
