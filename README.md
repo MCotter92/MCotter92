@@ -6,7 +6,7 @@ My name is Mason Cotter. I am currently a data engineer that writes software (or
 
 - Currently working on:
   - [ ] Writing my own `malloc()` and `free()` using K&R C Book as a guide
-  - [ ] Implement the stream server, client, and datagram sockets implemented in [Beej's Guide](https://beej.us/guide/bgnet/html/split/index.html), then expand each in a meaningful way. Found (here)[https://github.com/MCotter92/my-workshop].
+  - [ ] Implement the stream server, client, and datagram sockets implemented in [Beej's Guide](https://beej.us/guide/bgnet/html/split/index.html), then expand each in a meaningful way. Found [here](https://github.com/MCotter92/my-workshop).
   - [ ] Finish [Galaga-like game](https://github.com/MCotter92/galaga_clone) as a way to learning to steer coding agents
   - [ ] Making a home lab housekeeping agent that helps me stay on top of maintenance.  
 - Up next:
